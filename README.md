@@ -4,6 +4,7 @@
 
 - **Author**: Bhupesh Chandra Dimri (`M.S. Accounting Analytics & Data Technology, Pace University`)
 - **Target Role**: Manager Research Analyst — Manager Research & Selection (`MR&S`), Multi-Asset Strategies & Solutions (`MASS`), Voya Investment Management
+- **Repository**: [https://github.com/bhupesh-debug/voya-mass-manager-research-analyst](https://github.com/bhupesh-debug/voya-mass-manager-research-analyst)
 
 ---
 
